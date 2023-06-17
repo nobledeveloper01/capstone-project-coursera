@@ -4,7 +4,7 @@ import Bruchetta from "./imgs/bruchettaa.jpg";
 import lemonD from "./imgs/lemon dessert.jpg";
 import fishTacos from "./imgs/FishTacos.JPG";
 // database for highlighted dishes
-export const HighLightedDishes = [
+export const HightledDishes = [
   {
     Name: "Greek Salad",
     Image: greekSalad,

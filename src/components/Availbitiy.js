@@ -32,7 +32,7 @@ export default function Availbitiy(props) {
         }
       }, 1000);
     }
-  }, []);
+  }, [props.date, props.time, props.seats]);
 
   return (
     <div>

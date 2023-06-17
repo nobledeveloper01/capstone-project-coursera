@@ -1,5 +1,5 @@
 import React from "react";
-import { motion } from "framer-motion";
+import { AnimatePresence, motion } from "framer-motion";
 import tableLg from "./imgs/tableLg.png";
 import tableMd from "./imgs/tableMd.png";
 import tableSm from "./imgs/tableSm.png";

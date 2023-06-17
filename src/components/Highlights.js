@@ -1,6 +1,6 @@
 import React from "react";
-import HighLightedCard from "./HighlightedCard";
-import { HighLightedDishes } from "./HighlightedDishes";
+import HighlightedCard from "./HighlightedCard";
+import { HightledDishes } from "./HighltedDishes";
 
 export default function Highlights() {
   return (
@@ -11,18 +11,19 @@ export default function Highlights() {
           Specials
         </h1>
         {/* flex container for dishes cards */}
-        <div className="flex flex-row w-[81vw] md:scale-[0.95] lg:scale-[0.95] xl:transform-none h-[520px] overflow-y-hidden mx-auto space-x-[100px]">
-          {/* cards for highlighted dishes */}
-          {HighLightedDishes &&
-            HighLightedDishes.map((dish, index) => (
-              <HighLightedCard
+        <div className="flex flex-row w-[81vw] md:scale-[0.95] lg:scale-[0.95] xl:transform-none h-[520px] overflow-y-hidden mx-auto  space-x-[100px] ">
+          {/* cards for highlted dishes  */}
+          {HightledDishes.map((dish, index) => {
+            return (
+              <HighlightedCard
                 key={index}
                 dishName={dish.Name}
                 dishImage={dish.Image}
                 dishPrice={dish.Price}
                 dishDescription={dish.Description}
-              ></HighLightedCard>
-            ))}
+              ></HighlightedCard>
+            );
+          })}
         </div>
       </div>
     </section>
