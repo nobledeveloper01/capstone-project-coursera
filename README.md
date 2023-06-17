@@ -1,6 +1,6 @@
 # Little Lemon website
 
-This is a concept website for a resturant named Little Lemon, which included the home page of the site + the reserving a table page
+This is a concept website for a restaurant named Little Lemon, which included the home page of the site + the reserving a table page
 
 ## Table of contents
 
@@ -33,7 +33,7 @@ This is a concept website for a resturant named Little Lemon, which included the
 
 ### Links
 
-- Live Site URL: (https://ladel46.github.io/Little-Lemon-Concept-Website)
+- Live Site URL: ()
 
 ## My process
 
@@ -54,18 +54,23 @@ This is a concept website for a resturant named Little Lemon, which included the
 
 ### What I learned
 
-By doing this project, i improved my skills in create designs of websites using provided requirements and style guides, and then translating those deisngs that were made by figma into working React application that elevates the experience while taking Ui/Ux deisng prenciples into consideration. It was my first experience with Tailwind css which was pleasent, it made styling elements much faster and more convinent. Also, a peace of my website i would love to highlight is the responsive table that shows when a user selects the number of seats needed, which dynamicly changes depending on user input, and form element that mounts if the table entered is avaible at the time and date selected or not. Lastely, animations where created with Framer Motion which made the process straight forward and simple.
+By working on this project, I have enhanced my skills in website design by creating visually appealing and functional designs based on provided requirements and style guides. I have successfully translated these designs, created using Figma, into a fully functional React application that prioritizes the user experience and follows UI/UX design principles.
 
+One notable aspect of this project was my introduction to Tailwind CSS. It was a delightful experience as it significantly sped up the styling process and offered convenient utilities for styling elements. The responsive table, which dynamically adjusts based on the number of seats selected by the user, is a highlight of my website. It provides a seamless user experience and adapts to user input in real time. Additionally, the form element intelligently checks the availability of the selected table at the specified date and time.
+
+Furthermore, I integrated animations using Framer Motion, which simplified the process and allowed me to create engaging and smooth animations throughout the application. These animations enhance the overall user experience and bring elements to life.
+
+Overall, this project has been a valuable learning experience, improving my proficiency in web design, frontend development with React, and the utilization of modern tools and libraries like Tailwind CSS and Framer Motion.
 ### Continued development
 
-In the future works, im aiming to improve my animation skills to make my websites more lively and fun, and also aiming to improve my code clarity.
+In future work, I am aiming to improve my animation skills to make my websites more lively and fun, and also aim to improve my code clarity.
 
 ### Useful resources
 
-- [TailWindCss documentation](https://tailwindcss.com/docs/installation) - This made using TailWindCss very easy and straight forward, as long as you have the CSS knowledge trainsitioning to TailWind is simple.
-- [Framer Motion documentation](https://www.framer.com/motion/) - Framer motion made making animations much simpler and their documntation are perfect for any type of idea you have in mind.
-- [W3Schools Css Refrence](https://www.w3schools.com/cssref/index.php) - Its has any questions you might have of Css answered with live examples, very good for any type of Css research.
+- [TailWindCss documentation](https://tailwindcss.com/docs/installation) - This made using TailWindCss very easy and straightforward, as long as you have the CSS knowledge transitioning to TailWind is simple.
+- [Framer Motion documentation](https://www.framer.com/motion/) - Framer Motion made making animations much simpler and their documntation are perfect for any idea you have in mind.
+- [W3Schools Css Refrence](https://www.w3schools.com/cssref/index.php) - It has any questions you might have about Css answered with live examples, which is very good for any type of Css research.
 
 ## Author
 
-- LinkedIn - [Adel Hafri](https://www.linkedin.com/in/adel-hafri/)
+- LinkedIn - [Marvellous Bamisaye](https://www.linkedin.com/in/marvellous-bamisaye-b7858524a/)
